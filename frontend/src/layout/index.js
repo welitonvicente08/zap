@@ -219,7 +219,7 @@ const LoggedInLayout = ({ children }) => {
             noWrap
             className={classes.title}
           >
-            Whatsapp | Seu WhatsApp Web em vários computadores!
+            Atendimento - Município de Lauro Müller
           </Typography>
           {user.id && <NotificationsPopOver />}
 
